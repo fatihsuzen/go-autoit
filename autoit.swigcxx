@@ -1,0 +1,8 @@
+%module autoit
+
+%{
+#include "C:/Users/Yasin/Desktop/GO Apps/app1/AutoItX3_DLL.h"
+%}
+
+%include "windows.i"
+%include "C:/Users/Yasin/Desktop/GO Apps/app1/AutoItX3_DLL.h"
